@@ -17,7 +17,7 @@
 		"testnet": {
 			"providerUrl": "https://hangzhounet.smartpy.io",
 			"aliases": {
-        "bob": {
+				"bob": {
 					"address": "tz1TKc3zQBMv7Rez77sX4JNdqMvG33LQrURk",
 					"secret": "edskS2b1NYNdRhmge37u9gYqw7vDqBmm7Sd5LDU4dTx6Xd4XF5XSQ7P1DFggR8qVoVJwRHXtgeYa2HDQviABoCqJaEySVdHFJQ"
 				},
